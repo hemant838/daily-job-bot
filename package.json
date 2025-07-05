@@ -7,6 +7,8 @@
     "start": "node jobNotifier.js"
   },
   "dependencies": {
+    "dotenv": "^17.0.1",
+    "node-fetch": "^3.3.2",
     "nodemailer": "^6.9.1",
     "puppeteer": "^22.0.0"
   }
