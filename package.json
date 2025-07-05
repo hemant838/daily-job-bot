@@ -1,0 +1,13 @@
+{
+  "name": "job-alert-bot",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Daily LinkedIn Job Alert Bot for Full Stack/MERN/Node.js",
+  "scripts": {
+    "start": "node jobNotifier.js"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.1",
+    "puppeteer": "^22.0.0"
+  }
+}
